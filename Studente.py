@@ -15,6 +15,5 @@ classe Studente :
        classe = input ("inserisci la classe: ")
        Studenti = Studente(nome,cognome,classe)
        classi.append (Sudenti)
-       classi [i] = Studenti
        print (classi [i].nome, "//",classi[i].cognome,"//",classi[i].classe)
        i+=1
